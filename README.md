@@ -1,7 +1,8 @@
 Hi I'm eepee original developer of Estibot.com and co-founder of Intelium.com
 
 I'm kinda obsessed with workflow automation and workflow tools, usually something 
-to do with domain names, more recently mainly cybersecurity.
+to do with domain names, more recently mainly cybersecurity. And turning these 
+into web apps to share the tools.
 
 Currently I'm into penetration testing with Kali Linux. T3h h4x0r stuff.
 
