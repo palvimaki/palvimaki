@@ -12,6 +12,7 @@ Always trying to clean up my spaghetti & learn from the amazing pros I know.
 Some random stuff I've done recently:
 
 - https://domaintieto.fi dotfi namespace domain tool (full stack)
+  Check out https://builtwith.com/domaintieto.fi to peek under the hood
 
 - Telegram bot for automating a plethora of tasks, eg checking droplists, valuating drops, initiating 
   dropcatching, managing dan.com portfolio, interacting with Cloudflare, and other relevant APIs. 
