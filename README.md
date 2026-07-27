@@ -4,13 +4,10 @@
 <p>
   Currently developing and optimizing AI harnesses and workflows (check out my AI skills repo)
 <p>  
-  As my main project I'm building backcountry decision-support instrument software (skimo.pro, luontoretki.fi). 
+  Projects: skimo.pro, luontoretki.fi, selkäkirurgia.fi
 </p>
 <p>
-  My little open source projects are a guitar tuner (tuner.fi, needs improvement) and a simple but practical on-device image processor (colibrious.com, kuvankäsittely.fi)
-</p>
-<p>
-  For the day job, I've built selkäkirurgia.fi, a spine surgery clinical and research tools suite.
+  Open source projects: guitar tuner (tuner.fi) and an on-device image processor (colibrious.com, kuvankäsittely.fi)
 </p>
 <p>
   Always Be Coding 
